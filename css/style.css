@@ -20,7 +20,12 @@ body {
 .caption{
   top: 50%;
 }
-
+a:hover{
+  color: red;
+}
+a{
+  color:white;
+}
 /*============= FOOTER =============*/
 
 
